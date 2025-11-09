@@ -1,0 +1,1 @@
+# EveryVisualStudio2022ProjectTemplate
